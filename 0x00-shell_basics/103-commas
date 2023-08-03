@@ -1,2 +1,6 @@
 #!bin/bash
+<<<<<<< HEAD
 ls -apm
+=======
+ls -amvp
+>>>>>>> parent of 0353d3f... Life is a series of commas, not periods
